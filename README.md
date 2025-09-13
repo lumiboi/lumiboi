@@ -1,4 +1,4 @@
-
+Writes code that sometimes works, mostly by accident.
 <table>
   <tr>
     <td>
