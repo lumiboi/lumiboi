@@ -1,4 +1,8 @@
-```text
+<table>
+<tr>
+<td valign="top">
+
+<pre>
                                                                #****                                
                                                       #########**#######*                           
                                                    +***####%%%######%#%%###                         
@@ -54,17 +58,32 @@
                       %%%%%%%%%%%%%%%%%%%#+++==+++++++++*########%%%%%###%%%%%%%%%%%%%%%%%%%%%%%%%%%
                       %%%%%%%%%%%#%%%%%%%*+*+++++++++****##########%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                       %%%%%%%%%%##%%%%%%%***++****+***#############%%%**%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+</pre>
+
+</td>
+
+<td valign="top" width="420">
+
+# lumiboi
 
 > *Writes code that sometimes works, mostly by accident.*
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lumiboi&show_icons=true&theme=radical" alt="lumiboi's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiboi&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
+### About
+
+- 🤖 AI & Automation
+- ⚛️ Full-Stack Developer
+- 🧠 LLM Agents • RAG • Tool Calling
+- 🐳 Docker • Self-hosted Infrastructure
+- 🌐 https://blendboxd.xyz
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lumiboi&show_icons=true&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiboi&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+</tr>
 </table>
