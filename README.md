@@ -3,31 +3,39 @@
 <td>
 
 <pre>
-                  +=++=-::-+*+-: :=-=*
-              o+++-:--::..:==:-. ...:..=
-           o::-::.     .==: -:::.  :=.. =
-          -....-=.      .-.:*-.+:.::-:.::*
-         .:=::--:    :+    :*- ::::  -:.::+
-         ::-=-.-: .  :--..=+-  ......:.    =
-        .. .-==**+*+**+*++*=..   :::..      +
-        :::-:-=ooc#coo####o*o*-  =*=:.       *
-       ...  .--+o#%#c##%%%#o*+=::-*c*.       -
-       :   .=+**oc%%%%##@@@@o.  :+c#o+.      .
-       -    o%#o#%@%@@@@@@@@%c:.:=ccoo-      .
-       -.. .%#*==++*c##%%o=:....  ::=+*:     -
-         . =o-=-..  :o%%c=::--+++++=--+-.  . -
-        .::+++**o+==:o@%c++*c*-+o==*##**- :-
-         -c@#c*****#c-oo--c####ccc#%**c*: +:
-          +@@@%##cc%*-@@# =occc###%@=o*=..=:
-          :o%##cc###-%@@@c:-o######**o=- .=
-           =o**#%%#oc#%%o+*==occ###%%c+: -:
-            c#occooc= -=:  :-o#cccooo*=.
-            =c#c#%%@#===.  =c%@@%#co+=:
-         :.:.-#%%%#c-..-*:  =++*#%#o+:
-      :....   =#@c. .. ==:.. .- :#o=:..
-        ...... :cc=occ#cc##c*c%c=+=:  =-
- .........::::: :=o%%o*+++=+oc#c+.. .=++--:.
-...:::::.::::::.:::o%%c=--+c%%c=.  .==+*=-==
+                         =+++===---=+**=:.  :===*
+                    c*o*+-=+==:.. :=++===-..-:.:::.+
+                 +++--=-.  .  .:....=+..:      ::.  =
+               =..-:::.        :+*-. -=:--:  ..==..: -
+             -.....:-=:         :=:.:*+.:+-.:----:..-.=
+             .:-::.-+=.     :-:     -*=  --..:. .:::--:+
+            .:=+---::.      .*-    .=*=: .:-::: .--.  ..-
+            :::-==:.==..:  .:--+..=o*-   ..   .:...    . :
+           ..  .-=-=*o++*+=**++*+=**-..    ::::::.        =
+          ::.:---==+oooc#cccoc#ccco*o*==   .+*+:.:         =
+          :::.:..-:=**c###ooo%%%#%%o*o*o= ..=*++=
+         :.     :---+oc#%%#%%##%@@%#c*+----:=*#c+:          +
+         :     :=+*oooc#%%%%%##%@@@@@o:   .-*ccco+:         -
+         =.    :*ccoooc%%%%@@%@@@@@@@@#+..-=o##coo=         :
+         -:    .c@@%c#%%%%@@@@@@@@%cco*+:   .=+*oo*:        +
+         ::.:. =@#+--::::-+oc####*-.     :::::..=+**.
+          ...  oo:--:..    =o#%%o+-----+**+++*+-::=+:..  .
+               +=+oooo*+=-..o@@@#+=+*co-:=o*==*o@%*+=:  --
+           =*+c#c*+==*+-=oo*occ*++**ccco*ooo**oooccoo- :+:
+            .*@@%##cooooc#%= o#c:.c#%%%%####%%%@-oc*+: -+.
+             :%%@@@%%#####%:=@@@% .*ooccc#####@%:c*+=. -+.
+             :=%@%%#cocc#%o.@@@@@c .=occ######c=+*+=-. :=
+               +oooc#%%%%o=#@@@@##c=:*c#%####cc#%o+-: .+:
+               +co+o#%%ccc#cocco+:-++-+oocc#%%@%#c*-. --
+                o%coc#cooc+  :--.   .:*##ccoooooo*=:
+                =c#ccc##%@@c++*+.  :+c%@@@%%#co*++-
+                 +##%%@@@@#--:.::   -oc##%@%%#co+-.
+          ::::.:. +%%%%co+-...:cc=:  :-::.+%%co+-.
+         ..:.:     +#%@*  ..  :=-:...  --: +#o+-:. :
+    .     .:::....  =##o-+oooc***occo**##c==*+-.. -+
+  .  ........::.::.. :**c%%#c%@@@@%coc##%%*=-:.  -++=-:.
+.........::.::::::::..:-*###o=.    .=*c#co+.    -++++---=-
+...:::::::::::::::::. + .*#%@%c***oc%@@@c-.    =+=+**=====.
 </pre>
 
 </td>
@@ -35,21 +43,27 @@
 
 <pre>
 lumiboi@github
-──────────────────────────────
+──────────────────────────────────
 Role........: Full-Stack Developer
-Focus.......: AI · Automation · Web
+Focus.......: AI Integration · Automation · Web
+Based.......: Ankara, Turkey
+
 OS..........: Linux · macOS · Windows
 Editor......: VS Code · Cursor
 Shell.......: zsh
 
-Lang.Code...: TypeScript · JavaScript · Python
-Lang.Ops....: Docker · Nginx · Bash
-Lang.Human..: Türkçe · English
+Languages...: TypeScript · JavaScript · Python
+AI / Agents.: RAG · Agent Architectures · Function Calling
+LLM.........: Provider APIs · Tool Use
+Automation..: n8n · Custom Workflow Pipelines
+Backend.....: Node.js · REST APIs · Supabase
+Containers..: Docker · Kubernetes
+CI/CD.......: GitHub Actions · GitLab CI · Jenkins
+Infra.......: Nginx · Linux · Staging / Prod
+Imaging.....: Python · PIL · NumPy · OpenCV
+Compliance..: GDPR / DSGVO
 
-Stack.......: n8n · RAG · CI/CD · Supabase
-Now.........: Türkçe video essay'ler + agent işleri
-
-── Contact ───────────────────
+── Contact ────────────────────────
 Mail........: mert@lumie.zone
 Web.........: lumie.zone
 GitHub......: github.com/lumiboi
