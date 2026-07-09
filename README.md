@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lumiboi/lumiboi/main/lumiboi.svg" alt="lumiboi" />
+  <img src="https://github.com/lumiboi/lumiboi/blob/main/lumiboi.svg" alt="lumiboi" />
 </p>
 
 <p align="center"><i>Writes code that sometimes works, mostly by accident.</i></p>
