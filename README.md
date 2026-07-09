@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/lumiboi/lumiboi/blob/main/lumiboi.svg" alt="lumiboi" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumiboi/lumiboi/main/dark_mode.svg">
+    <img alt="lumiboi" src="https://raw.githubusercontent.com/lumiboi/lumiboi/main/light_mode.svg">
+  </picture>
 </p>
 
 <p align="center"><i>Writes code that sometimes works, mostly by accident.</i></p>
