@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top">
+<td>
 
 <pre>
                                                                #****                                
@@ -61,29 +61,43 @@
 </pre>
 
 </td>
+<td valign="top">
 
-<td valign="top" width="420">
+<pre>
+lumiboi@github
+──────────────────────────────
+ Role........: Full-Stack Developer
+ Focus.......: AI · Automation · Web
+ OS..........: Linux · macOS · Windows
+ Editor......: VS Code · Cursor
+ Shell.......: zsh
 
-# lumiboi
+ Lang.Code...: TypeScript · JavaScript · Python
+ Lang.Ops....: Docker · Nginx · Bash
+ Lang.Human..: Türkçe · English
 
-> *Writes code that sometimes works, mostly by accident.*
+ Stack.......: n8n · RAG · CI/CD · Supabase
+ Now.........: Türkçe video essay'ler + agent işleri
 
-### About
-
-- 🤖 AI & Automation
-- ⚛️ Full-Stack Developer
-- 🧠 LLM Agents • RAG • Tool Calling
-- 🐳 Docker • Self-hosted Infrastructure
-- 🌐 https://blendboxd.xyz
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lumiboi&show_icons=true&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiboi&layout=compact&theme=radical&hide_border=true" />
+ ── Contact ──────────────────
+ Mail........: mert@lumie.zone
+ Web.........: lumie.zone
+ GitHub......: github.com/lumiboi
+</pre>
 
 </td>
 </tr>
+</table>
+
+<i>Writes code that sometimes works, mostly by accident.</i>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lumiboi&show_icons=true&theme=radical" alt="lumiboi's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumiboi&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
