@@ -15,4 +15,4 @@
   <i>Writes code that sometimes works, mostly by accident.</i>
 </p>
 
-<p align="center"><a href="https://github.com/lumiboi"><img src="https://github-stats-extended.vercel.app/api?username=lumiboi&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&card_width=500&line_height=20" alt="Mert's GitHub Stats"></a><a href="https://github.com/lumiboi"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=lumiboi&layout=compact&langs_count=5&theme=radical&card_width=500" alt="Most Used Languages"></a></p>
+<p align="center"><a href="https://github.com/lumiboi"><img width="48%" src="https://github-stats-extended.vercel.app/api?username=lumiboi&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical&card_width=500&line_height=20" alt="Mert's GitHub Stats"></a><a href="https://github.com/lumiboi"><img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=lumiboi&layout=compact&langs_count=5&theme=radical&card_width=500" alt="Most Used Languages"></a></p>
